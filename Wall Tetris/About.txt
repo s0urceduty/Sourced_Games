@@ -1,0 +1,1 @@
+The original Tetris game turned sideways. Tetromino blocks are sent in from the left side, rotated and then positioned on the right side of the game screen.
